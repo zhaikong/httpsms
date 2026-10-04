@@ -1,5 +1,4 @@
 .idea
-.env*
 !.env.docker
 !.env.production
 *serviceAccountKey.json
@@ -19,3 +18,5 @@ SECURITY_AUDIT_REPORT.md
 skills-lock.json
 .worktrees/
 docs/superpowers
+config.bat
+node_modules
